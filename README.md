@@ -5,11 +5,11 @@ Puedes poner en practica tus habilidades revisando y utilizando el código a con
 
 ## Índice
 
-* [1. Intro](url)
-* [2. Demo](url)
-* [3. ¿Qué construiras?](url)
-* [4. Objetivos de aprendizaje](url)
-* [5. Requisitos](url)
+* [1. Intro](https://github.com/ibarralupitav/clon-de-google#1-intro)
+* [2. Demo](https://github.com/ibarralupitav/clon-de-google#2-demo)
+* [3. ¿Qué construiras?](https://github.com/ibarralupitav/clon-de-google#3-qu%C3%A9-construiras)
+* [4. Objetivos de aprendizaje](https://github.com/ibarralupitav/clon-de-google#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/ibarralupitav/clon-de-google#5-requisitos)
 
 * ## 1. Intro
 

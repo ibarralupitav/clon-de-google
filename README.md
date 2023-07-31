@@ -18,7 +18,7 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 * ## 2. Demo
 Puedes entrar a ver el demo en este vinculo: https://snazzy-axolotl-68f970.netlify.app/
 
-![imagen]("/imagenes/Demo.png")
+![imagen]("imagenes/Demo.png")
 
 * ## 3. ¿Qué construiras?
 

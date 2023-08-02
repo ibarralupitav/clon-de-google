@@ -54,3 +54,5 @@ Puedes entrar a ver el demo en este vinculo: https://snazzy-axolotl-68f970.netli
 - [ ]  Aplicar tipos de selectores en CSS.
 - [ ]   Sección
       
+### Nota
+Por alguna razon las imagenes no cargan, he intentado miles de veces pero no cambia nada
